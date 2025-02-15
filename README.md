@@ -15,10 +15,11 @@
 
 ###
 
-<p align="left">Instructions for Use:<br><br>uBlock Origin: Add the sBlock List to your custom filter lists in uBlock Origin settings.<br><br>
-  AdAway: Import the sBlock List URL into AdAway's custom host sources.<br><br>
-  AdGuard: Include the sBlock List in AdGuard's custom filter settings.<br><br>
-  Elevate your ad-blocking game with the SBLOCK List and enjoy an ad-free, secure, and private browsing experience.</p>
+<p align="left">Instructions for Use:<br><br>
+  ⦁ uBlock Origin: Add the sBlock List to your custom filter lists in uBlock Origin settings.<br><br>
+  ⦁ AdAway: Import the sBlock List URL into AdAway's custom host sources.<br><br>
+  ⦁ AdGuard: Include the sBlock List in AdGuard's custom filter settings.<br><br>
+  Elevate your ad-blocking game with the sBlock List and enjoy an ad-free, secure, and private browsing experience.</p>
 
 ###
 ### License
