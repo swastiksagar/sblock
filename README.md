@@ -1,6 +1,6 @@
-<br clear="both">
-
-<img align="left" height="100" src="https://i.postimg.cc/PrYLh2JS/s.png"  />
+<div align="center">
+  <img height="100" src="https://i.postimg.cc/PrYLh2JS/s.png"  />
+</div>
 
 ###
 
