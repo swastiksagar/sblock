@@ -12,4 +12,4 @@
 </div>
 
 ###
-[Sources]:[(https://www.google.com)](https://github.com/hectorm/hblock/blob/master/SOURCES.md)
+[Sources](https://github.com/hectorm/hblock/blob/master/SOURCES.md)
