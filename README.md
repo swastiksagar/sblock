@@ -18,5 +18,5 @@ Distributed under the MIT License. See [MIT License](https://opensource.org/lice
 
  [Swastik Sagar](https://twitter.com/swastiksagarr)
 
-[![Sparkline](https://stars.medv.io/bytebeats/compose-charts.svg)](https://stars.medv.io/bytebeats/compose-charts)
+[![Sparkline](https://stars.medv.io/swastiksagar/sblock.svg)](https://stars.medv.io/swastiksagar/sblock)
 
