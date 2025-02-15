@@ -4,6 +4,6 @@
 
 ###
 
-<p align="left">sBlock is a shell script that gets a list of domains that serve ads, tracking scripts and malware from multiple sources.</p>
+<p align="center">sBlock is a blocklist made in shell script that gets a list of domains that serve ads, tracking scripts and malware from multiple sources.</p>
 
 ###
