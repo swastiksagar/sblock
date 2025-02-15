@@ -22,3 +22,5 @@ Distributed under the MIT License. See [MIT License](https://opensource.org/lice
 
 [![Sparkline](https://stars.medv.io/swastiksagar/sblock.svg)](https://stars.medv.io/swastiksagar/sblock)
 
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/swastiksagar/sblock.svg?variant=adaptive)](https://starchart.cc/swastiksagar/sblock)
