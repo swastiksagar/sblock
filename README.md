@@ -13,6 +13,7 @@
 </div>
 
 <p align="left">
+  
   ⦁ uBlock Origin: Add the sBlock List to your custom filter lists in uBlock Origin settings.<br><br>
   ⦁ AdAway: Import the sBlock List URL into AdAway's custom host sources.<br><br>
   ⦁ AdGuard: Include the sBlock List in AdGuard's custom filter settings.<br><br>
