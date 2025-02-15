@@ -1,10 +1,12 @@
 <div align="center">
-  <img height="150" src="https://i.postimg.cc/PrYLh2JS/s.png"  />
+  <img height="150" src="https://i.postimg.cc/tgFb5LLF/51e174ff-d587-479a-a2c5-1753682cd58f.png"  />
 </div>
 
 ###
 
 <h3 align="center">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware from various sources.</h3>
+
+###
 
 ###
 ## License
