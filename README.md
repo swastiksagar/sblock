@@ -20,7 +20,5 @@ Distributed under the MIT License. See [MIT License](https://opensource.org/lice
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-[![Sparkline](https://stars.medv.io/swastiksagar/sblock.svg)](https://stars.medv.io/swastiksagar/sblock)
-
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/swastiksagar/sblock.svg?variant=adaptive)](https://starchart.cc/swastiksagar/sblock)
