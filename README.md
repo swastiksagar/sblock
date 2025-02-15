@@ -5,7 +5,22 @@
 <h4 align="left">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</h4>
 
 <br></br>
+### Usage
 
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/59Qskz3S/Screenshot-2025-02-15-230321.png"  />
+</div>
+
+###
+
+<p align="left">Instructions for Use:<br><br>uBlock Origin: Add the sBlock List to your custom filter lists in uBlock Origin settings.<br><br>
+  AdAway: Import the sBlock List URL into AdAway's custom host sources.<br><br>
+  AdGuard: Include the sBlock List in AdGuard's custom filter settings.<br><br>
+  Elevate your ad-blocking game with the SBLOCK List and enjoy an ad-free, secure, and private browsing experience.</p>
+
+###
 ### License
 
 Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
