@@ -1,8 +1,11 @@
-<img align="left" height="85" src="https://camo.githubusercontent.com/54c5b0a3b74fcac5bdf3d66e1af7514779df10b8bb4cd42e22d90b0af1489ee0/68747470733a2f2f692e706f7374696d672e63632f7a58396d324b396e2f732d312e706e67"  />
+<div align="center">
+  <img height="150" src="https://i.postimg.cc/xT9nh3wD/s-1.png"  />
+</div>
 
 ###
-<h4 align="left">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</h4>
-<br></br>
+
+<p align="center">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</p>
+
 
 ### Usage
 <br clear="both">
