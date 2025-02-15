@@ -16,7 +16,7 @@
 Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
 ## Contact
 
-Your Name - [Swastik Sagar](https://twitter.com/swastiksagarr)
+ [Swastik Sagar](https://twitter.com/swastiksagarr)
 
 [![Sparkline](https://stars.medv.io/bytebeats/compose-charts.svg)](https://stars.medv.io/bytebeats/compose-charts)
 
