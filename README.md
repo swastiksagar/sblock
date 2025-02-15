@@ -16,5 +16,4 @@
 Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
 ## Contact
 
-Your Name - [Swastik Sagar](https://twitter.com/swastiksagarr) - 
-Project Link: [https://github.com/swastiksagar/sblock](https://github.com/swastiksagar/sblock)
+Your Name - [Swastik Sagar](https://twitter.com/swastiksagarr)
