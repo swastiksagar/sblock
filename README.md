@@ -4,7 +4,7 @@
 
 ###
 
-<p></p> align="left">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware from [various sources](https://github.com/hectorm/hblock/blob/master/SOURCES.md)</p>
+<p>sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware from [various sources](https://github.com/hectorm/hblock/blob/master/SOURCES.md)</p>
 
 ###
 
