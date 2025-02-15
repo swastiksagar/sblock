@@ -16,7 +16,9 @@
 Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
 ## Contact
 
- [Swastik Sagar](https://twitter.com/swastiksagarr)
+<a href="https://twitter.com/swastiksagarr" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 
 [![Sparkline](https://stars.medv.io/swastiksagar/sblock.svg)](https://stars.medv.io/swastiksagar/sblock)
 
