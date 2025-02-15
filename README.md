@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="left">
-  <img height="250" src="https://i.postimg.cc/59Qskz3S/Screenshot-2025-02-15-230321.png"  />
+  <img height="150" src="https://i.postimg.cc/59Qskz3S/Screenshot-2025-02-15-230321.png"  />
 </div>
 
 <p align="left">
