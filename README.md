@@ -18,17 +18,15 @@
   Elevate your ad-blocking game with the sBlock List and enjoy an ad-free, secure, and private browsing experience.</p>
 </div>
 <div align="center"> <h3>License</h3></div>
-
-<a href="https://mit-license.org/">
+<a href="https://mit-license.org/" target="blank">
 <div align="center">
 <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg
 
-</div>
-</a>
+</div></a>
 
 <div align="center"><h3>Contact</h3></div>
 <a href="https://twitter.com/swastiksagarr" target="blank">
-  <div align="center">
+<div align="center">
 <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg
 ?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </div></a>
