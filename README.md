@@ -22,9 +22,9 @@
   Elevate your ad-blocking game with the sBlock List and enjoy an ad-free, secure, and private browsing experience.</p>
 
 ###
-### License
 
-Distributed under the MIT License. See ![Mit License](https://choosealicense.com/licenses/mit/) for more information.
+## License
+Distributed under the MIT License. See [MIT](https://choosealicense.com/licenses/mit/) for more information.
 
 ### Contact
 
