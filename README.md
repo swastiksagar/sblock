@@ -23,10 +23,11 @@
 
 ###
 
-## License
+### License
 <a href="https://mit-license.org/">
-![Mit](https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg)
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg
 </a>
+
 ### Contact
 
 <a href="https://twitter.com/swastiksagarr" target="_blank">
