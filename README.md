@@ -54,3 +54,4 @@ You can make your own blocklist by modifying the hostlist mentioned above.
 
 [![Stargazers over time](https://starchart.cc/swastiksagar/sblock.svg?variant=adaptive)](https://starchart.cc/swastiksagar/sblock)
 
+<img src="https://m3-markdown-badges.vercel.app/stars/9/1/<swastiksagar>/<sblock>">
