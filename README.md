@@ -22,6 +22,11 @@ ff00::0         ip6-mcastprefix
 ff02::1         ip6-allnodes
 ff02::2         ip6-allrouters
 ff02::3         ip6-allhosts
+# END HEADER
+-----------------------------------------------------------------------
+# BEGIN BLOCKLIST
+
+0.0.0.0 (example.com)
 ```
 You can make your own blocklist by modifying the hostlist mentioned above.
 ###
