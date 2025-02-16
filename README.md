@@ -24,8 +24,9 @@
 ###
 
 ## License
-Distributed under the MIT License. See [MIT](https://choosealicense.com/licenses/mit/) for more information.
-
+<a href="https://mit-license.org/">
+![Mit](https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg)
+</a>
 ### Contact
 
 <a href="https://twitter.com/swastiksagarr" target="_blank">
