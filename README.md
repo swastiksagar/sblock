@@ -24,7 +24,7 @@
 ###
 ### License
 
-Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
+Distributed under the MIT License. See <img height="13px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit3.svg"> for more information.
 
 ### Contact
 
