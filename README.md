@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</p>
+<h3><p align="center">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</p></h3>
 
 
 ### Usage
