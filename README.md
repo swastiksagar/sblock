@@ -24,7 +24,7 @@
 ###
 ### License
 
-Distributed under the MIT License. See <img height="13px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit3.svg"> for more information.
+Distributed under the MIT License. See ![Mit License](mit-license.org) for more information.
 
 ### Contact
 
@@ -36,8 +36,3 @@ Distributed under the MIT License. See <img height="13px" src="https://ziadoua.g
 ### Stargazers over time
 [![Stargazers over time](https://starchart.cc/swastiksagar/sblock.svg?variant=adaptive)](https://starchart.cc/swastiksagar/sblock)
 
-<div align="center">
-
-  [![forthebadge](https://forthebadge.com/images/badges/approved-by-my-mom.svg)](https://forthebadge.com)
-
-</div>
