@@ -1,8 +1,9 @@
-<div align="left">
+<div align="middle">
   <img height="100" src="https://i.postimg.cc/xT9nh3wD/s-1.png" />
 </div>
-<h3><p align="left">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</p></h3>
-<div align="left"> <h4>Usage</h4></div>
+<div align="left"> <h3>Description</h3></div>
+<h4><p align="left">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</p></h4>
+<div align="left"> <h3>Usage</h3></div>
 <div align="left">
   <img height="200" src="https://i.postimg.cc/59Qskz3S/Screenshot-2025-02-15-230321.png"  />
 </div>
@@ -14,19 +15,18 @@
   Elevate your ad-blocking game with the sBlock List and enjoy an ad-free, secure, and private browsing experience.
   </h5>
   </div>
-<div align="left"> <h5>License</h5></div>
+<div align="left"> <h3>License</h3></div>
 <a href="https://mit-license.org/" target="blank">
 <div align="left">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg
+ <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg">
 
 </div></a>
-<div align="left"><h5>Contact</h5></div>
+<div align="left"><h3>Contact</h3></div>
 <a href="https://twitter.com/swastiksagarr" target="blank">
 <div align="left">
-<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg
-?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg"?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </div></a>
-<div align="left"> <h5>Stargazer</h5></div>
+<div align="left"> <h3>Stargazer</h3></div>
 
 [![Stargazers over time](https://starchart.cc/swastiksagar/sblock.svg?variant=adaptive)](https://starchart.cc/swastiksagar/sblock)
 
