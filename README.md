@@ -29,7 +29,8 @@ Distributed under the MIT License. See <img height="13px" src="https://ziadoua.g
 ### Contact
 
 <a href="https://twitter.com/swastiksagarr" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg
+?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
 ### Stargazers over time
