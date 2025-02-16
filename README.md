@@ -2,7 +2,7 @@
   <img height="150" src="https://i.postimg.cc/xT9nh3wD/s-1.png" />
 </div>
 
-<h4><p align="left">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</p></h4>
+<h2><p align="left">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</p></h2>
 
 <div align="left"> <h3>Usage</h3></div>
 <br clear="both">
