@@ -2,12 +2,9 @@
   <img height="150" src="https://i.postimg.cc/xT9nh3wD/s-1.png"  />
 </div>
 
-###
-
 <h3><p align="center">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</p></h3>
 
-
-### Usage
+## Usage
 <br clear="both">
 
 <div align="left">
@@ -21,20 +18,17 @@
   ⦁ AdGuard: Include the sBlock List in AdGuard's custom filter settings.<br><br>
   Elevate your ad-blocking game with the sBlock List and enjoy an ad-free, secure, and private browsing experience.</p>
 
-###
-
-### License
+## License
 <a href="https://mit-license.org/">
 <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg
 </a>
 
-### Contact
-
+## Contact
 <a href="https://twitter.com/swastiksagarr" target="_blank">
 <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg
 ?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-### Stargazers over time
+## Stargazers over time
 [![Stargazers over time](https://starchart.cc/swastiksagar/sblock.svg?variant=adaptive)](https://starchart.cc/swastiksagar/sblock)
 
