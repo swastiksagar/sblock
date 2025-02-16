@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="150" src="https://i.postimg.cc/xT9nh3wD/s-1.png" />
+  <img height="100" src="https://i.postimg.cc/xT9nh3wD/s-1.png" />
 </div>
 
 <h2><p align="left">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</p></h2>
@@ -8,7 +8,7 @@
 <br clear="both">
 
 <div align="left">
-  <img height="150" src="https://i.postimg.cc/59Qskz3S/Screenshot-2025-02-15-230321.png"  />
+  <img height="200" src="https://i.postimg.cc/59Qskz3S/Screenshot-2025-02-15-230321.png"  />
 </div>
 
 <div align="left">
