@@ -49,7 +49,7 @@ You can make your own blocklist by modifying the hostlist mentioned above.
 <a href="https://twitter.com/swastiksagarr" target="blank">
 <div align="left">
 <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg"?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-<a href="wa.me/+919304966736" target="blank"> 
+<a href="https://wa.me/+919304966736" target="blank"> 
 <div align="">
 <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp2.svg"?&style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsappstyle="margin-bottom: 5px;" />   
   </div></a>
