@@ -24,7 +24,7 @@
 ###
 ### License
 
-Distributed under the MIT License. See ![Mit License](mit-license.org) for more information.
+Distributed under the MIT License. See ![Mit License](https://choosealicense.com/licenses/mit/) for more information.
 
 ### Contact
 
