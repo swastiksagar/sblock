@@ -34,3 +34,9 @@ Distributed under the MIT License. See [MIT License](https://opensource.org/lice
 
 ### Stargazers over time
 [![Stargazers over time](https://starchart.cc/swastiksagar/sblock.svg?variant=adaptive)](https://starchart.cc/swastiksagar/sblock)
+
+<div align="center">
+
+  [![forthebadge](https://forthebadge.com/images/badges/approved-by-my-mom.svg)](https://forthebadge.com)
+
+</div>
