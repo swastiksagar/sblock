@@ -29,7 +29,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 (example.com)
 ```
 You can make your own blocklist by modifying the hostlist mentioned above.
-###
+
 <div align="left">
   <div align="left"> <h3>Installation</h3></div>
   <h>
@@ -38,21 +38,20 @@ You can make your own blocklist by modifying the hostlist mentioned above.
   ⦁ AdGuard: Include the sBlock List in AdGuard's custom filter settings.<br><br>
   </h>
   Elevate your ad-blocking game with the sBlock List and enjoy an ad-free, secure, and private browsing experience.
-  </div>
+</div>
 <div align="left"> <h3>License</h3></div>
 <a href="https://mit-license.org/" target="blank">
 <div align="left">
- <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg">
-
+ <img height="23px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg">
 </div></a>
 <div align=""><h3>Contact</h3></div>
 <a href="https://twitter.com/swastiksagarr" target="blank">
 <div align="left">
-<img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg"?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-<a href="https://wa.me/+919304966736" target="blank"> 
+<img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg">
+<a href="https://wa.me/+919304966736" target="blank">
 <div align="">
-<img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp2.svg"?&style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsappstyle="margin-bottom: 5px;" />   
-  </div></a>
+<img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp2.svg">   
+</div></a>
 <div align="left"> <h3>Stargazer</h3></div>
 
 [![Stargazers over time](https://starchart.cc/swastiksagar/sblock.svg?variant=adaptive)](https://starchart.cc/swastiksagar/sblock)
