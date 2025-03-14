@@ -42,15 +42,15 @@ You can make your own blocklist by modifying the hostlist mentioned above.
 <div align="left"> <h3>License</h3></div>
 <a href="https://mit-license.org/" target="blank">
 <div align="left">
- <img height="23px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg">
+ <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg">
 </div></a>
 <div align=""><h3>Contact</h3></div>
 <a href="https://twitter.com/swastiksagarr" target="blank">
 <div align="left">
-<img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg">
+<img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg">
 <a href="https://wa.me/+919304966736" target="blank">
 <div align="">
-<img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp2.svg">   
+<img height="22px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp2.svg">   
 </div></a>
 <div align="left"> <h3>Stargazer</h3></div>
 
