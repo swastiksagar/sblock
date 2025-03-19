@@ -53,6 +53,7 @@ You can make your own blocklist by modifying the hostlist mentioned above.
 <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp2.svg">  
 </div></a>
 <div align="left"> <h3>Star Chart</h3></div>
+<div align="left">
 <a href="https://starchart.cc/swastiksagar/sblock">
-  <img src="https://starchart.cc/swastiksagar/sblock.svg?variant=adaptive" alt="Stargazers over time" width="500">
-</a>
+  <img src="https://starchart.cc/swastiksagar/sblock.svg?variant=adaptive" alt="Stargazers over time" width="400">
+</a></div>
