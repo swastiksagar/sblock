@@ -46,10 +46,8 @@ You can make your own blocklist by modifying the hostlist mentioned above.
 </div></a>
 <div align="left"> <h3>Contact</h3></div>
 <a href="https://twitter.com/swastiksagarr" target="blank">
-<div align="left">
-<img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg">
+<img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg"></a>
 <a href="https://wa.me/+919304966736" target="blank">
-<div align="">
 <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp2.svg">  
 </div></a>
 <div align="left"> <h3>Star Chart</h3></div>
