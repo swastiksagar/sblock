@@ -28,8 +28,10 @@ ff02::3         ip6-allhosts
 
 0.0.0.0 (example.com)
 ```
-You can make your own blocklist by modifying the hostlist mentioned above.
+⦁ You can make your own blocklist by modifying the hostlist mentioned above.
+<div align="left">
 
+⦁ You can replace it with ```C:\Windows\System32\drivers\etc\hosts```  with administrative permission.
 <div align="left">
   <div align="left"> <h3>Installation</h3></div>
   <h>
@@ -50,8 +52,3 @@ You can make your own blocklist by modifying the hostlist mentioned above.
 <a href="https://wa.me/+919304966736" target="blank">
 <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp2.svg">  
 </div></a>
-<div align="left"> <h3>Star Chart</h3></div>
-<div align="left">
-<a href="https://starchart.cc/swastiksagar/sblock">
-  <img src="https://starchart.cc/swastiksagar/sblock.svg?variant=adaptive" alt="Stargazers over time" width="400">
-</a></div>
