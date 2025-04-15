@@ -2,7 +2,9 @@
 <img height="200" src= https://i.postimg.cc/CL75B57B/download.jpg" />
 </div>
 <div align="left"> <h3>Description</h3></div>
-<h><p align="left">sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</p></h>
+<h><p align="left"> 
+
+*sBlock* is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</p></h>
 <div align="left"> <h3>Usage</h3></div>
 
 ### 
@@ -38,9 +40,10 @@ C:\Windows\System32\drivers\etc\hosts
 <div align="left">
   <div align="left"> <h3>Installation</h3></div>
   <h>
-  ⦁ uBlock Origin: Add the sBlock List to your custom filter lists in uBlock Origin settings.<br><br>
-  ⦁ AdAway: Import the sBlock List URL into AdAway's custom host sources.<br><br>
-  ⦁ AdGuard: Include the sBlock List in AdGuard's custom filter settings.<br><br>
+  
+⦁ **uBlock Origin** : Add the sBlock List to your custom filter lists in uBlock Origin settings.<br><br>
+⦁ **AdAway** : Import the sBlock List URL into AdAway's custom host sources.<br><br>
+⦁ **AdGuard** : Include the sBlock List in AdGuard's custom filter settings.<br><br>
   </h>
   Elevate your ad-blocking game with the sBlock List and enjoy an ad-free, secure, and private browsing experience.
 </div>
