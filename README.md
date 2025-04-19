@@ -47,8 +47,3 @@ C:\Windows\System32\drivers\etc\hosts
   </h>
   Elevate your ad-blocking game with the sBlock List and enjoy an ad-free, secure, and private browsing experience.
 </div>
-<div align="left"> <h3>Badges</h3>
-<a>
-<img height="25px" src="https://m3-markdown-badges.vercel.app/stars/7/1/swastiksagar/sblock">
-<img height="25px" src="https://m3-markdown-badges.vercel.app/issues/1/1/swastiksagar/sblock">
-</div></a>
