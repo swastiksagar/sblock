@@ -60,3 +60,8 @@ C:\Windows\System32\drivers\etc\hosts
 <a href="https://wa.me/+919304966736" target="blank">
 <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp2.svg">  
 </div></a>
+<div align="left"> <h3>Badges</h3>
+<a>
+<img height="25px" src="https://m3-markdown-badges.vercel.app/stars/7/1/swastiksagar/sblock">
+<img height="25px" src="https://m3-markdown-badges.vercel.app/issues/8/1/swastiksagar/sblock">
+</a>
