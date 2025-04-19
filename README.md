@@ -49,19 +49,8 @@ C:\Windows\System32\drivers\etc\hosts
   </h>
   Elevate your ad-blocking game with the sBlock List and enjoy an ad-free, secure, and private browsing experience.
 </div>
-<div align="left"> <h3>License</h3></div>
-<a href="https://mit-license.org/" target="blank">
-<div align="left">
- <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg">
-</div></a>
-<div align="left"> <h3>Contact</h3></div>
-<a href="https://twitter.com/swastiksagarr" target="blank">
-<img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg"></a>
-<a href="https://wa.me/+919304966736" target="blank">
-<img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp2.svg">  
-</div></a>
 <div align="left"> <h3>Badges</h3>
 <a>
 <img height="25px" src="https://m3-markdown-badges.vercel.app/stars/7/1/swastiksagar/sblock">
 <img height="25px" src="https://m3-markdown-badges.vercel.app/issues/1/1/swastiksagar/sblock">
-</a>
+</div></a>
