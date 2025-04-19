@@ -33,7 +33,9 @@ ff02::3         ip6-allhosts
 ⦁ You can make your own blocklist by modifying the hostlist mentioned above.
 <div align="left">
 
-⦁ You can replace the host file in windows using this path by having administrative permission.
+⦁ You can replace the host file in
+<img height="9px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg">
+using this path by having administrative permission.
 ```
 C:\Windows\System32\drivers\etc\hosts
 ```
