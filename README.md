@@ -39,7 +39,12 @@ C:\Windows\System32\drivers\etc\hosts
 ```
 <div align="left">
   <div align="left"> <h3>Installation</h3></div>
-  <h>
+
+Add this link in filter list. 
+
+```
+https://raw.githubusercontent.com/swastiksagar/sblock/refs/heads/main/sblock.txt 
+```
   
 ⦁ **uBlock Origin** : Add the sBlock List to your custom filter lists in uBlock Origin settings.<br><br>
 ⦁ **AdAway** : Import the sBlock List URL into AdAway's custom host sources.<br><br>
