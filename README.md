@@ -9,7 +9,7 @@
 
 ### 
     
-```
+```bash
 # Generated with sBlock 1.0.0 (https://github.com/swastiksagar/sblock)
 # Blocked domains: 158
 # Date: Sat Feb 15 02:35 PM UTC+5:30
