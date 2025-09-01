@@ -44,9 +44,9 @@ https://raw.githubusercontent.com/swastiksagar/sblock/refs/heads/main/sblock.txt
 ```
 *Add this link in filter list.*<br>
 
-⦁ **uBlock Origin**: Add the sBlock list to your custom filter lists in *uBlock Origin* settings.<br>
 ⦁ **AdAway**: Import the sBlock list URL into *AdAway's* custom host sources.<br>
 ⦁ **AdGuard**: Include the sBlock list in *AdGuard's* custom filter settings.<br>
+⦁ **uBlock Origin**: Add the sBlock list to your custom filter lists in *uBlock Origin* settings.<br>
 </h>
 #
 *Elevate your ad-blocking game with the sBlock List and enjoy an ad-free, secure, and private browsing experience.*
