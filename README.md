@@ -30,12 +30,12 @@ ff02::3         ip6-allhosts
 
 0.0.0.0 (example.com)
 ```
-*You can make your own blocklist by modifying the hostlist mentioned above.*<br>
+You can make your own blocklist by modifying the hostlist mentioned above.<br>
 
 ```
 C:\Windows\System32\drivers\etc\hosts
 ```
-*You can replace the host file in Windows using this path by having administrative permission.*<br>
+You can replace the host file in Windows using this path by having administrative permission.<br>
 <div align="left"> <h3>Installation</h3></div>
 
 
@@ -44,9 +44,9 @@ https://raw.githubusercontent.com/swastiksagar/sblock/refs/heads/main/sblock.txt
 ```
 *Add this link in filter list.*<br>
 
-⦁ ***uBlock Origin***: Add the sBlock list to your custom filter lists in *uBlock Origin* settings.<br>
-⦁ ***AdAway***: Import the sBlock list URL into *AdAway's* custom host sources.<br>
-⦁ ***AdGuard***: Include the sBlock list in *AdGuard's* custom filter settings.<br>
+⦁ **uBlock Origin**: Add the sBlock list to your custom filter lists in *uBlock Origin* settings.<br>
+⦁ **AdAway**: Import the sBlock list URL into *AdAway's* custom host sources.<br>
+⦁ **AdGuard**: Include the sBlock list in *AdGuard's* custom filter settings.<br>
 </h>
 #
 *Elevate your ad-blocking game with the sBlock List and enjoy an ad-free, secure, and private browsing experience.*
