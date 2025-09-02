@@ -30,12 +30,12 @@ ff02::3         ip6-allhosts
 
 0.0.0.0 (example.com)
 ```
-You can make your own blocklist by modifying the hostlist mentioned above.<br>
+You can make your own blocklist by `modifying` the hostlist mentioned above.<br>
 
 ```
 C:\Windows\System32\drivers\etc\hosts
 ```
-You can replace the host file in Windows using this path by having administrative permission.<br>
+You can replace the host file in Windows using this path by having **administrative permission**.<br>
 <div align="left"> <h3>Installation</h3></div>
 
 
