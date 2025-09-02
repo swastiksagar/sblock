@@ -59,7 +59,7 @@ C:\Windows\System32\drivers\etc\hosts
 <div align="left"> <h3>Installation</h3></div>
 
 ```
-https://raw.githubusercontent.com/swastiksagar/sblock/refs/heads/main/sblock.txt 
+https://raw.githubusercontent.com/swastiksagar/sblock/refs/heads/main/blocklist.txt 
 ```
 *Add this link in filter list.*<br>
 
