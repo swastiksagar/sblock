@@ -5,9 +5,25 @@
 <h><p align="left"> 
 
 *sBlock* is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.</p></h>
-<div align="left"> <h3>Usage</h3></div>
 
-### 
+<div align="left"> <h3>Features</h3></div>
+
+⦁ **Ad Blocking**: Prevents intrusive ads from loading across websites.<br>
+⦁ **Tracker Protection**: Stops third-party trackers from collecting your data.<br>
+⦁ **Malware Domain Filtering**: Blocks access to domains known for distributing malware.<br>
+⦁ **Easy Integration**: Compatible with *DNS-based blockers*, firewalls, and custom scripts.<br>
+⦁ **Open Source**: `MIT-licensed` and community-friendly.<br>
+
+<div align="left"> <h3>Repository Structure</h3></div>
+
+```console
+sblock/
+├── LICENSE         # MIT License
+├── README.md       # Project documentation
+└── blocklist.txt   # Core domain blocklist (coming soon or user-defined)
+```
+
+<div align="left"> <h3>Usage</h3></div>
     
 ```bash
 # Generated with sBlock 1.0.0 (https://github.com/swastiksagar/sblock)
@@ -30,14 +46,17 @@ ff02::3         ip6-allhosts
 
 0.0.0.0 (example.com)
 ```
-You can make your own blocklist by `modifying` the hostlist mentioned above.<br>
 
+`Windows:`
 ```
 C:\Windows\System32\drivers\etc\hosts
 ```
-You can replace the host file in Windows using this path by having **administrative permission**.<br>
+`Linux/MacOS:`
+```
+/etc/hosts
+```
+*You can replace the host file using this path by having **administrative permission***.<br>
 <div align="left"> <h3>Installation</h3></div>
-
 
 ```
 https://raw.githubusercontent.com/swastiksagar/sblock/refs/heads/main/sblock.txt 
