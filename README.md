@@ -47,11 +47,11 @@ ff02::3         ip6-allhosts
 0.0.0.0 (example.com)
 ```
 
-`Windows:`
+*Windows:*
 ```
 C:\Windows\System32\drivers\etc\hosts
 ```
-`Linux/MacOS:`
+*Linux/MacOS:*
 ```
 /etc/hosts
 ```
