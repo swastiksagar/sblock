@@ -1,5 +1,7 @@
 <div align="center">
-<img width="" height="150" alt="sblock-social-preview" src="https://github.com/user-attachments/assets/878f4d54-419c-4165-b1e8-be55b8f84a2b" /></div>
+
+<img width="" height="200" alt="sblock-banner" src="https://github.com/user-attachments/assets/9a237fd0-a843-45f9-8beb-a2434e3e458a" /></div>
+
 
 <div align="left"> <h3>Description</h3></div>
 
