@@ -1,3 +1,6 @@
+<div align="center">
+<img width="" height="150" alt="sblock-social-preview" src="https://github.com/user-attachments/assets/878f4d54-419c-4165-b1e8-be55b8f84a2b" /></div>
+
 <div align="left"> <h3>Description</h3></div>
 
 *sBlock is a blocklist created using shell script that compiles a list of domains responsible for serving ads, tracking scripts, and malware.* </p></h>
