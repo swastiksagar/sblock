@@ -1,5 +1,4 @@
-<div align="left">
-<img width="" height="240" alt="sblock-banner-1280x420" src="https://github.com/user-attachments/assets/7f1debe8-9f39-4c0e-9123-579d8d1e7e58" /></div>
+_sBLOCKLIST_
 
 <div align="left"> <h3>Description</h3></div>
 
